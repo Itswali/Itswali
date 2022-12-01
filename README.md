@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wali Muhammad</h1>
-<h3 align="center">A passionate Full-stack Developer from Kenya</h3>
+<h3 align="center">A passionate Full-stack Developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itswali&label=Profile%20views&color=0e75b6&style=flat" alt="Itswali" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **luckywali0986@gmail.com**
 
-- ⚡ Fun fact **I'm funny and full of humor**
+- ⚡ Fun fact **I'm funny and passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
