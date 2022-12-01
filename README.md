@@ -18,8 +18,8 @@
 <p align="left">
 <a href="https://codepen.io/Itswali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Itswali" height="30" width="40" /></a>
 <a href="https://twitter.com/simo_giddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simo_giddy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mnayi-gideon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnayi-gideon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17531924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17531924" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wali-muhammad-666040244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnayi-gideon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19595376/wali-dexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17531924" height="30" width="40" /></a>
 <a href="https://instagram.com/itslucky_wali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Itswali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@luckywali0986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@luckywali0986" height="30" width="40" /></a>
 </p>
