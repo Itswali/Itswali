@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently **a [Micronaut at Microverse](https://microverse.org) learning Full-stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Itswali](https://github.com/Itswali)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Itswali?tab=repositories)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **luckywali0986@gmail.com**
+- 📫 How to reach me **[Gmail](luckywali0986@gmail.com)**
 
 - ⚡ Fun fact **I'm funny and passionate**
 
