@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **[Gmail](luckywali0986@gmail.com)**
+- 📫 How to reach me **luckywali0986@gmail.com**
 
 - ⚡ Fun fact **I'm funny and passionate**
 
